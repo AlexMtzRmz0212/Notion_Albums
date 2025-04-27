@@ -1,1 +1,1 @@
-# Notion-Music-Album-Sorter
+# Notion_Music_Album_Sorter
