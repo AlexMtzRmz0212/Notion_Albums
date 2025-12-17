@@ -4,7 +4,6 @@ import time
 from dotenv import load_dotenv
 from utils import fetch_all_notion_pages, clear_console
 from notion_client import Client
-import pprint
 
 load_dotenv()
 
