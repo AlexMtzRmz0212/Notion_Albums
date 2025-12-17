@@ -2,7 +2,7 @@ import os
 import requests
 import time
 from dotenv import load_dotenv
-from utils import fetch_all_notion_pages, clear_console
+from Sorter.utils import fetch_all_notion_pages, clear_console
 from notion_client import Client
 
 load_dotenv()
