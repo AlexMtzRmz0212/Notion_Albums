@@ -25,7 +25,8 @@ Notion_Albums/
 
 Here are the upcoming features and improvements planned for Notion_Albums:
 
-#### **High Priority**
+#### **Implementations**
+
 - **Cancel Buttons When Running**  
   Add ability to cancel ongoing operations (like album sorting or cover updates) mid-execution for better user control in the Streamlit interface.
 
@@ -34,6 +35,9 @@ Here are the upcoming features and improvements planned for Notion_Albums:
 
 - **Cover Update Error Reporting**  
   Implement detailed error explanations when album covers fail to update, providing users with specific reasons (e.g., "Image not found," "API rate limit exceeded," "Invalid image URL") to help troubleshoot issues.
+
+- **Automatic search and update of information**
+  Create functionality of filling information in database in an automatic way.
 
 #### **Improvements**
 - **Search Specific Cover**  
