@@ -36,13 +36,16 @@ Here are the upcoming features and improvements planned for Notion_Albums:
 - **Cover Update Error Reporting**  
   Implement detailed error explanations when album covers fail to update, providing users with specific reasons (e.g., "Image not found," "API rate limit exceeded," "Invalid image URL") to help troubleshoot issues.
 
-- **Automatic search and update of information**  
-  Create functionality of filling information in database in an automatic way.
+- **Automatic Information Search and Update**  
+  Create functionality to automatically fetch and populate missing database information, ensuring the library stays up-to-date with minimal manual entry.
 
 #### **Improvements**
+
 - **Search Specific Cover**  
   Implement targeted cover search functionality within the Streamlit app to find and apply specific album artwork.
 
+- **Playoffs Ranking System**  
+  Develop a competitive "playoff-style" ranking system to evaluate and sort songs or albums against each other for more dynamic user preferences.
 ---
 
 ### Feature Requests
